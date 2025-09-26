@@ -1,11 +1,11 @@
 # Pemrograman Berbasis Website
 
 ## Informasi Dosen
-- **Nama Dosen:** Adi Wahyu Pribadi, S.Si., M.Kom
+- **Nama Dosen:** Bambang Riono
 
 ## Mahasiswa
-- **Nama:** Faathir Akbar Nugroho  
-- **NPM:** 4522210033
+- **Nama:** M Akbar Ramadhan Ola Sili
+- **NPM:** 4522210132
 
 ## Tujuan
 - Memahami konsep dasar pemrograman web.  
