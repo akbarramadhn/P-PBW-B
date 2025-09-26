@@ -1,7 +1,7 @@
 # Pemrograman Berbasis Website
 
 ## Informasi Dosen
-- **Nama Dosen:** Bambang Riono
+- **Nama Dosen:** Bambang Riono Arsad, S.Kom, M.MSi
 
 ## Mahasiswa
 - **Nama:** M Akbar Ramadhan Ola Sili
